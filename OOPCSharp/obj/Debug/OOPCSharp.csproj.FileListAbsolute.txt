@@ -1,0 +1,6 @@
+C:\Users\John\Desktop\Projects\VisualStudio\OOPCSharp\OOPCSharp\bin\Debug\OOPCSharp.exe.config
+C:\Users\John\Desktop\Projects\VisualStudio\OOPCSharp\OOPCSharp\bin\Debug\OOPCSharp.exe
+C:\Users\John\Desktop\Projects\VisualStudio\OOPCSharp\OOPCSharp\bin\Debug\OOPCSharp.pdb
+C:\Users\John\Desktop\Projects\VisualStudio\OOPCSharp\OOPCSharp\obj\Debug\OOPCSharp.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\Projects\VisualStudio\OOPCSharp\OOPCSharp\obj\Debug\OOPCSharp.exe
+C:\Users\John\Desktop\Projects\VisualStudio\OOPCSharp\OOPCSharp\obj\Debug\OOPCSharp.pdb

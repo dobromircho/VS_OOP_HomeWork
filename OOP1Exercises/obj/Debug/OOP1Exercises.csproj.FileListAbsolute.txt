@@ -1,0 +1,6 @@
+C:\Users\John\Desktop\Projects\VisualStudio\OOPCSharp\OOP1Exercises\bin\Debug\OOP1Exercises.exe.config
+C:\Users\John\Desktop\Projects\VisualStudio\OOPCSharp\OOP1Exercises\bin\Debug\OOP1Exercises.exe
+C:\Users\John\Desktop\Projects\VisualStudio\OOPCSharp\OOP1Exercises\bin\Debug\OOP1Exercises.pdb
+C:\Users\John\Desktop\Projects\VisualStudio\OOPCSharp\OOP1Exercises\obj\Debug\OOP1Exercises.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\Projects\VisualStudio\OOPCSharp\OOP1Exercises\obj\Debug\OOP1Exercises.exe
+C:\Users\John\Desktop\Projects\VisualStudio\OOPCSharp\OOP1Exercises\obj\Debug\OOP1Exercises.pdb
